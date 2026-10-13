@@ -1,0 +1,7 @@
+STUDENT RECORD
+
+Name: Your Full Name
+Course: BS Computer Science - Software Engineering
+Year Level: 4th
+Favorite Programming Language: phyton
+Career Goal: Software Engineer
