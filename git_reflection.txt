@@ -1,0 +1,7 @@
+GIT REFLECTION
+
+1. Git is used for: Tracking changes in files and managing project versions.
+2. GitHub is used for: Hosting repositories online and collaborating with others.
+3. A commit means: Saving staged changes in the local Git history.
+4. A branch is used for: Working on changes separately from the main branch.
+5. A Pull Request is used for: Proposing changes for review before merging them.
